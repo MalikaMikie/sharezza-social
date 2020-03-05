@@ -1,2 +1,11 @@
-# sharezza-social
- &lt;!DOCTYPE html> &lt;html>   &lt;head>     &lt;meta charset="UTF-8">     &lt;title>title&lt;/title>   &lt;/head>   &lt;body>      &lt;/body> &lt;/html>
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  </head>
+  <body>
+  
+  </body>
+</html>
+
